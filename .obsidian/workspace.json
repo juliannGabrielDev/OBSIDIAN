@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "b9e0b7943ddeb425",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dbf2bf5f56f36aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7088fd5c69c3ee02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/conceptos-basicos/arquitectura-n-tier.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "arquitectura-n-tier"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8563c95f40580a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b97499facec1195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/django/django-rest-framework/gestion-de-usuarios-y-grupos-djoser.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gestion-de-usuarios-y-grupos-djoser"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2e96853f5a22ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61a7727b54c626c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b91d28951ef0a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a75138c454e8031",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "@api",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "873e3f695b3da1db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b45c2959d5b640b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f4e9888c8a5942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0626f822963c0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "django/indice-django.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de indice-django"
+            }
+          },
+          {
+            "id": "02316f838cf90402",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/indice-sql.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de indice-sql"
+            }
+          },
+          {
+            "id": "a06cb305d27a0f97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4edfb305ea0246e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "django/views/vistas-genericas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de vistas-genericas"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7088fd5c69c3ee02",
+  "lastOpenFiles": [
+    "WEB/conceptos-basicos/Indice-conceptos-basicos.md",
+    "WEB/conceptos-basicos/arquitectura-n-tier.md",
+    "WEB/conceptos-basicos/comprender-url.md",
+    "WEB/django/django-rest-framework/filtrado-busqueda-drf.md",
+    "WEB/django/django-rest-framework/auth-drf.md",
+    "WEB/django/indice-django.md",
+    "WEB/django/django-rest-framework/filtrado-y-paginacion-avanzados.md",
+    "WEB/django/views/vistas-genericas.md",
+    "WEB/django/django-rest-framework/ordering-drf.md",
+    "instrucciones.md",
+    "WEB/indice-web.md",
+    "WEB/apis/indice-apis.md",
+    "WEB/django/django-rest-framework/gestion-de-usuarios-y-grupos-djoser.md",
+    "WEB/django/django-rest-framework/djoser.md",
+    "WEB/django/django-rest-framework/jwt-drf.md",
+    "WEB/django/django-rest-framework/setup-django-rest-framework.md",
+    "WEB/django/hoja-trucos-comandos.md",
+    "WEB/django/django-rest-framework/throttling.md",
+    "ANDROID/indice-android.md",
+    "INTEL/indice-intel.md",
+    "WEB/css/indice-css.md",
+    "INTEL/calculo/indice-calculo.md",
+    "INTEL/calculo/ecuaciones-diferenciales/tipo-orden-grado-linealidad.md",
+    "django/indice-django.md",
+    "django/django-rest-framework/gestion-de-usuarios-y-grupos-djoser.md",
+    "django/hoja-trucos-comandos.md",
+    "django/django-rest-framework",
+    "apis/teoria",
+    "javascript/flujo",
+    "javascript/caracteristicas",
+    "javascript/funciones",
+    "javascript/interaccion",
+    "javascript/poo",
+    "javascript/tipos-datos",
+    "javascript/variables",
+    "javascript/javascript.svg",
+    "Untitled",
+    "css/grid-flexbox/css-flexbox-poster.webp",
+    "css/grid-flexbox/css-flexbox-poster.png",
+    "css/css.svg",
+    "html/html5.svg",
+    "python/python.svg",
+    "sql/mysql.svg",
+    "django/django.svg",
+    "SQL/teoria/diagrama-relacion-entidades.canvas"
+  ]
+}

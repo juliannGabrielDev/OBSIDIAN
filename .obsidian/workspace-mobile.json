@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "266af4e7be7ece3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fe5b15d0677109",
+        "type": "tabs",
+        "dimension": 61.47540983606557,
+        "children": [
+          {
+            "id": "07c95602280d51c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "django/django-rest-framework/throttling.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "throttling"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b4c1bed9d0cadc1",
+        "type": "tabs",
+        "dimension": 38.52459016393443,
+        "children": [
+          {
+            "id": "41bfcd540c574c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "django/indice-django.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "indice-django"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e2bd9901832051b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8dd302e62c4a0956",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8b8f7eea9e8a9760",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0d24b780d8de4e51",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7350667dba5bb5b1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd404ae83483eca0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3365de49c69164a9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "django/indice-django.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3d1000b4f9637067",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "django/django-rest-framework/throttling.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3dbd7e9ddfacbfda",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "django/indice-django.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07c95602280d51c1",
+  "lastOpenFiles": [
+    "django/indice-django.md",
+    "django/django-rest-framework/throttling.md",
+    "Untitled.md",
+    "django/views/vistas-genericas.md",
+    "django/django-rest-framework/auth-drf.md",
+    "django/admin/admin.md",
+    "TEMPLATES/js-nota.md",
+    "TEMPLATES/css-nota.md",
+    "javascript/variables/sombreado.md",
+    "javascript/variables",
+    "javascript/tipos-datos/primitivos.md",
+    "javascript/tipos-datos/complejos.md",
+    "javascript/tipos-datos/autoboxing.md",
+    "javascript/tipos-datos",
+    "javascript/poo/objetos-incorporados.md",
+    "javascript/poo/clases.md",
+    "javascript/poo",
+    "javascript/interaccion/eventos-medios.md",
+    "javascript/interaccion",
+    "javascript/funciones/modulos.md",
+    "javascript/funciones/async-await.md",
+    "javascript/funciones",
+    "javascript/flujo/while.md",
+    "javascript/flujo",
+    "javascript/caracteristicas/precedencia-asociatividad.md",
+    "javascript/caracteristicas/use-strict.md",
+    "javascript/caracteristicas",
+    "gsap/indice-gsap.md",
+    "gsap",
+    "django/pruebas/testing.md",
+    "django/pruebas/debugging.md",
+    "django/pruebas",
+    "css/grid-flexbox/css-flexbox-poster.webp",
+    "css/tips/textarea-altura-automatica.md",
+    "css/tips/sombreado-doble.md",
+    "css/tips/formas-creativas-css.md",
+    "css/tips",
+    "python/python.svg",
+    "sql/recursos/diagrama-consulta-sql.jpg",
+    "sql/recursos/join-sql.jpg",
+    "django/django.svg",
+    "css/grid-flexbox/css-flexbox-poster.png",
+    "javascript/javascript.svg",
+    "html/html5.svg",
+    "css/css.svg",
+    "sql/mysql.svg",
+    "sql/teoria/diagrama-relacion-entidades.canvas"
+  ]
+}

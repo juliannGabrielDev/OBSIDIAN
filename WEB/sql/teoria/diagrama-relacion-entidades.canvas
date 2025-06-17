@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"3f128b72a376d05e","type":"text","text":"# Customers\n\n| **PK** | `customer_id INT`        |\n| ------ | ------------------------ |\n|        | `last_name VARCHAR(20)`  |\n|        | `first_name VARHCAR(20)` |\n|        | `company VARCHAR(30)`    |\n|        | `phone INT`              |\n|        | `email DATE`             |\n| **FK** | `support_rep_id DATE`    |\n|        | `address VARCHAR(70)`    |\n","x":-20,"y":-300,"width":400,"height":380,"color":"4"},
+		{"id":"905a2f5651a9f0e4","type":"text","text":"# Artists\n\n| **PK** | `artist_id INT`     |\n| ------ | ------------------- |\n|        | `name VARCHAR(120)` |\n| **FK** | `location_id INT`   |\n","x":-20,"y":180,"width":400,"height":255,"color":"6"},
+		{"id":"002b37cc7e48344b","type":"text","text":"# Albums\n\n| **PK** | `album_id INT`       |\n| ------ | -------------------- |\n|        | `title VARCHAR(160)` |\n| **FK** | `artist_id INT`      |\n","x":440,"y":-300,"width":400,"height":260,"color":"2"},
+		{"id":"c7437740aa0a1557","type":"text","text":"# Track\n\n| **PK** | `track_id INT`        |\n| ------ | --------------------- |\n|        | `title VARCHAR(30)`   |\n|        | `unite_price DECIMAL` |\n| **FK** | `album_id INT`        |\n| **FK** | `artist_id INT`       |\n","x":680,"y":290,"width":400,"height":290,"color":"5"},
+		{"id":"59259317941173c9","type":"text","text":"# Invoices\n\n| **PK** | `invoice_id INT`               |\n| ------ | ------------------------------ |\n|        | `billing_address VARCHAR(100)` |\n|        | `invoice_date DATE`            |\n| **FK** | `customer_id INT`              |\n| **FK** | `track_id INT`                 |\n","x":-500,"y":480,"width":400,"height":300,"color":"1"},
+		{"id":"fce326be813df855","type":"text","text":"# Employees\n\n| **PK** | `employee_id INT`        |\n| ------ | ------------------------ |\n|        | `last_name VARCHAR(20)`  |\n|        | `first_name VARHCAR(20)` |\n|        | `title VARCHAR(30)`      |\n|        | `reports_to INT`         |\n|        | `birth_date DATE`        |\n|        | `hire_date DATE`         |\n|        | `address VARCHAR(70)`    |\n","x":-700,"y":-360,"width":400,"height":380,"color":"6"},
+		{"id":"80d57367ba227dfa","type":"text","text":"# Location\n\n| **PK** | `location_id INT`     |\n| ------ | --------------------- |\n|        | `city VARCHAR(50)`    |\n|        | `country VARCHAR(50)` |\n","x":120,"y":680,"width":400,"height":220,"color":"3"}
+	],
+	"edges":[
+		{"id":"8e02735e8eb3c460","fromNode":"002b37cc7e48344b","fromSide":"bottom","toNode":"905a2f5651a9f0e4","toSide":"right","color":"2","label":"1:N"},
+		{"id":"5a45e92c878284fe","fromNode":"c7437740aa0a1557","fromSide":"left","toNode":"905a2f5651a9f0e4","toSide":"right","color":"5","label":"1:N"},
+		{"id":"1fee781f71ff60c6","fromNode":"c7437740aa0a1557","fromSide":"left","toNode":"002b37cc7e48344b","toSide":"bottom","color":"5","label":"1:1"},
+		{"id":"f31ce97518bfdc1d","fromNode":"59259317941173c9","fromSide":"right","toNode":"3f128b72a376d05e","toSide":"left","color":"1","label":"1:N"},
+		{"id":"38fef3665d253bd4","fromNode":"3f128b72a376d05e","fromSide":"left","toNode":"fce326be813df855","toSide":"right","color":"4","label":"1:N"},
+		{"id":"1f2688be0cc4d7df","fromNode":"c7437740aa0a1557","fromSide":"left","toNode":"59259317941173c9","toSide":"right","color":"1","label":"1:N"},
+		{"id":"669abddf869d2ca2","fromNode":"905a2f5651a9f0e4","fromSide":"right","toNode":"80d57367ba227dfa","toSide":"top","color":"3","label":"1:N"}
+	]
+}
