@@ -27,9 +27,10 @@ git config --list
 
 ## Flujo de Control
 
-| Nombre | Palabras Clave |
-| ------ | -------------- |
-|        |                |
+| Nombre                                                                    | Palabras Clave                       |
+| ------------------------------------------------------------------------- | ------------------------------------ |
+| [[git-commit\|💾 git commit: Guardando Tus Cambios en el Repositorio 📂]] | `git commit`, `-m`, `-a`, `--amend`. |
+|                                                                           |                                      |
 
 ## GitHub
 

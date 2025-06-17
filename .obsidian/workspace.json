@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/django/indice-django.md",
+                "file": "WEB/git/flujo-trabajo/git-commit.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indice-django"
+              "title": "git-commit"
             }
           }
         ]
@@ -190,12 +190,13 @@
   },
   "active": "7088fd5c69c3ee02",
   "lastOpenFiles": [
+    "WEB/git/flujo-trabajo/git-commit.md",
+    "WEB/django/indice-django.md",
+    "WEB/git/indice-git.md",
     "WEB/git/comandos-utiles",
     "WEB/git/ramas",
     "WEB/git/github",
     "WEB/git/flujo-trabajo",
-    "WEB/django/indice-django.md",
-    "WEB/git/indice-git.md",
     "WEB/html/indice-html.md",
     "WEB/gsap/indice-gsap.md",
     "WEB/git/git.svg",
@@ -226,7 +227,6 @@
     "javascript/caracteristicas",
     "javascript/funciones",
     "javascript/interaccion",
-    "javascript/poo",
     "javascript/javascript.svg",
     "css/grid-flexbox/css-flexbox-poster.webp",
     "css/grid-flexbox/css-flexbox-poster.png",
