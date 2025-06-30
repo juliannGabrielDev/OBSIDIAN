@@ -8,37 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7088fd5c69c3ee02",
+            "id": "48ca5799e2cd828e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/git/indice-git.md",
+                "file": "WEB/Svelte/componentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indice-git"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a9fc01cc71077391",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eecdf190b061e4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/git/flujo-trabajo/git-commit.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git-commit"
+              "title": "componentes"
             }
           }
         ]
@@ -73,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@api",
+                "query": "box-sha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,45 +168,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7088fd5c69c3ee02",
+  "active": "48ca5799e2cd828e",
   "lastOpenFiles": [
-    "WEB/git/flujo-trabajo/git-commit.md",
+    "WEB/django/views/applications-namespaces.md",
+    "WEB/Svelte/componentes.md",
+    "WEB/Svelte",
     "WEB/django/indice-django.md",
-    "WEB/git/indice-git.md",
-    "WEB/git/comandos-utiles",
-    "WEB/git/ramas",
-    "WEB/git/github",
-    "WEB/git/flujo-trabajo",
-    "WEB/html/indice-html.md",
-    "WEB/gsap/indice-gsap.md",
+    "ANDROID/kotlin/Clases/Clases Pair y Triple.md",
+    "ANDROID/kotlin/Clases/Clases Enum.md",
+    "ANDROID/kotlin/Clases/Clases abstractas.md",
+    "ANDROID/kotlin/indice-kotlin.md",
+    "ANDROID/kotlin/Variables/Variables.md",
+    "ANDROID/kotlin/Variables/Tipos anulables.md",
+    "ANDROID/kotlin/Variables/Texto. Char y String.md",
+    "ANDROID/kotlin/Variables/Números.md",
+    "ANDROID/kotlin/Variables",
+    "ANDROID/kotlin/Otros/Smart casting.md",
+    "ANDROID/kotlin/Otros/LAB Practicar el manejo de la anulabilidad.md",
+    "ANDROID/kotlin/Otros/Excepsiones.md",
+    "ANDROID/kotlin/Otros",
+    "ANDROID/kotlin/Funciones/Recursos Adicionales para Funciones.md",
+    "ANDROID/kotlin/Funciones/Funciones.md",
+    "ANDROID/kotlin/Funciones",
+    "ANDROID/kotlin/Flujo de control/while.md",
+    "ANDROID/kotlin/Flujo de control/when.md",
+    "ANDROID/kotlin/Flujo de control/if-else como expresiones.md",
+    "ANDROID/kotlin/Flujo de control/for.md",
+    "ANDROID/kotlin/Flujo de control/Recursos Adicionales para Condiciones.md",
+    "ANDROID/kotlin/Flujo de control",
+    "ANDROID/kotlin/Estruecturas de datos/Sets.md",
+    "ANDROID/kotlin/Estruecturas de datos/Mapas.md",
+    "ANDROID/kotlin/Estruecturas de datos/Listas.md",
+    "ANDROID/kotlin/Estruecturas de datos",
+    "ANDROID/kotlin/Clases/Recursos Adicionales para Interfaces y herencia.md",
+    "ANDROID/kotlin/Clases/Recursos Adicionales  para Clases.md",
+    "ANDROID/kotlin/Clases",
+    "ANDROID/ui/xml",
+    "ANDROID/kotlin/clases",
+    "ANDROID/ui/constrain-layout",
+    "ANDROID/kotlin/kotlin.svg",
     "WEB/git/git.svg",
-    "WEB/conceptos-basicos/http.md",
-    "WEB/conceptos-basicos/Indice-conceptos-basicos.md",
-    "WEB/indice-web.md",
-    "TEMPLATES/git-nota.md",
-    "TEMPLATES/django-nota.md",
-    "WEB/conceptos-basicos/arquitectura-n-tier.md",
-    "WEB/conceptos-basicos/comprender-url.md",
-    "WEB/django/django-rest-framework/filtrado-busqueda-drf.md",
-    "WEB/django/django-rest-framework/auth-drf.md",
-    "WEB/django/django-rest-framework/filtrado-y-paginacion-avanzados.md",
-    "WEB/django/views/vistas-genericas.md",
-    "WEB/django/django-rest-framework/ordering-drf.md",
-    "instrucciones.md",
-    "WEB/apis/indice-apis.md",
-    "WEB/django/django-rest-framework/gestion-de-usuarios-y-grupos-djoser.md",
-    "WEB/django/django-rest-framework/djoser.md",
-    "WEB/django/django-rest-framework/jwt-drf.md",
-    "WEB/django/django-rest-framework/setup-django-rest-framework.md",
-    "WEB/django/hoja-trucos-comandos.md",
-    "WEB/django/django-rest-framework/throttling.md",
-    "ANDROID/indice-android.md",
-    "django/django-rest-framework",
-    "apis/teoria",
-    "javascript/flujo",
-    "javascript/caracteristicas",
-    "javascript/funciones",
-    "javascript/interaccion",
     "javascript/javascript.svg",
     "css/grid-flexbox/css-flexbox-poster.webp",
     "css/grid-flexbox/css-flexbox-poster.png",

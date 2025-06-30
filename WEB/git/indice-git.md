@@ -27,10 +27,13 @@ git config --list
 
 ## Flujo de Control
 
-| Nombre                                                                    | Palabras Clave                       |
-| ------------------------------------------------------------------------- | ------------------------------------ |
-| [[git-commit\|💾 git commit: Guardando Tus Cambios en el Repositorio 📂]] | `git commit`, `-m`, `-a`, `--amend`. |
-|                                                                           |                                      |
+| Nombre                                                    | Palabras Clave                                                                                                                             |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[git-commit\|💾 git commit]]                             | `git commit`, `-m`, `-a`, `--amend`.                                                                                                       |
+| [[flujos-de-trabajo-en-git\|🌊 Flujos de Trabajo en Git]] | Git Flow, GitHub Flow, GitLab Flow.                                                                                                        |
+| [[git-status\|🔍 git status]]                             | `git status`, `--short`, `--branch`, `-s`, `-b`, `--untracked-files=no`.                                                                   |
+| [[git-add\|git add ➕📂]]                                  | `git add <archivo>`, `git add <directorio>/`, `git add .`, `git add -A` o `git add --all`, `git add -u`, `git add -p` o `git add --patch`. |
+| [[git-push\|git push ✨]]                                  | `git push`, `origin`, `HEAD`, `-u`, `--set-upstream`, `--force`.                                                                           |
 
 ## GitHub
 
@@ -40,9 +43,10 @@ git config --list
 
 ## Ramas
 
-| Nombre | Palabras Clave |
-| ------ | -------------- |
-|        |                |
+| Nombre                                                         | Palabras Clave                                                                                                                          |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [[hoja-de-trucos-ramas\|Hoja de Trucos para Ramas en Git ✨🌿]] | `git branch`, `git checkout`, `git switch`, `git merge`, `git branch -m`, `git branch -d`, `git branch -D`, `git push origin --delete`. |
+| [[head\|HEAD en Git]]                                          | `git show HEAD`, `git reflog`.                                                                                                          |
 
 ## Comandos Útiles
 

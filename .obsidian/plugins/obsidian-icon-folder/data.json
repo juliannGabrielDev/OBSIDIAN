@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏎",
+      "📱",
       "🧭",
       "🧮",
-      "🧺",
-      "🧠",
-      "🧪"
+      "🧺"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -91,5 +91,8 @@
   "WEB/javascript/indice-javascript.md": "🧭",
   "WEB/python/indice-python.md": "🧭",
   "WEB/sql/indice-sql.md": "🧭",
-  "WEB/git/indice-git.md": "🧭"
+  "WEB/git/indice-git.md": "🧭",
+  "ANDROID/kotlin/indice-kotlin.md": "🧭",
+  "ANDROID/kotlin": "📱",
+  "WEB/Svelte": "🏎"
 }

@@ -1,8 +1,9 @@
 ---
 aliases:
-  - "💾 git commit: Guardando Tus Cambios en el Repositorio 📂"
+  - 💾 git commit
 tags:
   - git
+  - git-flow
 breadcrumb:
   - "[[indice-web|WEB 🔗📝]]"
   - "[[indice-git|🌳 Índice Git]]"
@@ -23,9 +24,31 @@ La forma más básica de usar el comando es simplemente `git commit`. Sin embarg
 | `-a`       | Incluye automáticamente en el _commit_ todos los archivos que ya están siendo rastreados por Git y que han sido modificados o eliminados. **No agrega archivos nuevos.** | `git commit -a -m "Corrige un error en el formulario de contacto"` |
 | `--amend`  | Modifica el _commit_ más reciente. Es útil para corregir un mensaje de _commit_ o agregar archivos que olvidaste incluir.                                                | `git commit --amend -m "Nuevo mensaje para el último commit"`      |
 
-> [!TIP] title here  
+> [!TIP]
 > 
 > 💡 Pro Tip: Puedes combinar las opciones -a y -m para agilizar tu flujo de trabajo: git commit -am "Un mensaje descriptivo". ¡Recuerda que esto no incluirá archivos nuevos que no hayan sido agregados con git add!
+
+### Remover un archivo de un commit
+
+```bash
+git rm --cached <archivo>
+```
+
+### Restaurar archivos a su último commit
+
+Cuando el archivo **no** está en el área de preparación:
+
+```bash
+git checkout<archivo>
+```
+
+Cuando el archivo está en el área de preparación:
+
+```bash
+git reset <archivo>
+
+git reset --hard <archivo>
+```
 
 ---
 ## ✍️ Mejores Prácticas para Mensajes de Commit

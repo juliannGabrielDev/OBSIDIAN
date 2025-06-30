@@ -5,6 +5,7 @@
     "tags": "tags",
     "breadcrumb": "multitext",
     "Fecha": "date",
-    "frameworks": "multitext"
+    "frameworks": "multitext",
+    "Docs": "multitext"
   }
 }

@@ -26,4 +26,10 @@ ccccccccccccccccccccccccccccc:'.          Terminal: Ptyxis 48.4
 ## Teoría
 ## Guías
 ## Programas
+
+| Nombre              | Palabras Clave                                                                                                                                                                                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[mysql\|🐘 MySQL]] | Fedora, Base de Datos, `dnf`, `systemctl`, `mysql_secure_installation`                                                                                                                                                                            |
+| [[fzf\|fzf 🔍]]     | `fzf`, `history \| fzf`, `cd $(find . -type d \| fzf)`, `git branch \| fzf`, `fzf --preview="cat {}"`, `fzf --preview="bat --color=always {}"`, `code $(fzf --preview="bat --color=always {}")`, `subl $(fzf --preview="bat --color=always {}")`. |
+
 ## Comandos
