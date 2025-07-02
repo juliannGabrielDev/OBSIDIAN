@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/Svelte/componentes.md",
+                "file": "ANDROID/ui/jetpack-compose/recursos-adicionales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "componentes"
+              "title": "recursos-adicionales"
             }
           }
         ]
@@ -170,10 +170,20 @@
   },
   "active": "48ca5799e2cd828e",
   "lastOpenFiles": [
-    "WEB/django/views/applications-namespaces.md",
+    "WEB/svelte/reactividad.md",
+    "ANDROID/ui/jetpack-compose/recursos-adicionales.md",
+    "WEB/svelte/insertar-contenido.md",
+    "WEB/svelte/componentes.md",
+    "WEB/django/django-rest-framework/throttling.md",
+    "WEB/svelte",
+    "WEB/Svelte/reactividad.md",
+    "WEB/Svelte/insertar-contenido.md",
     "WEB/Svelte/componentes.md",
-    "WEB/Svelte",
     "WEB/django/indice-django.md",
+    "WEB/django/hoja-trucos-comandos.md",
+    "WEB/django/django.svg",
+    "WEB/django/views/applications-namespaces.md",
+    "WEB/Svelte",
     "ANDROID/kotlin/Clases/Clases Pair y Triple.md",
     "ANDROID/kotlin/Clases/Clases Enum.md",
     "ANDROID/kotlin/Clases/Clases abstractas.md",
@@ -192,20 +202,11 @@
     "ANDROID/kotlin/Funciones",
     "ANDROID/kotlin/Flujo de control/while.md",
     "ANDROID/kotlin/Flujo de control/when.md",
-    "ANDROID/kotlin/Flujo de control/if-else como expresiones.md",
-    "ANDROID/kotlin/Flujo de control/for.md",
-    "ANDROID/kotlin/Flujo de control/Recursos Adicionales para Condiciones.md",
     "ANDROID/kotlin/Flujo de control",
-    "ANDROID/kotlin/Estruecturas de datos/Sets.md",
-    "ANDROID/kotlin/Estruecturas de datos/Mapas.md",
-    "ANDROID/kotlin/Estruecturas de datos/Listas.md",
     "ANDROID/kotlin/Estruecturas de datos",
-    "ANDROID/kotlin/Clases/Recursos Adicionales para Interfaces y herencia.md",
-    "ANDROID/kotlin/Clases/Recursos Adicionales  para Clases.md",
     "ANDROID/kotlin/Clases",
     "ANDROID/ui/xml",
     "ANDROID/kotlin/clases",
-    "ANDROID/ui/constrain-layout",
     "ANDROID/kotlin/kotlin.svg",
     "WEB/git/git.svg",
     "javascript/javascript.svg",
@@ -215,7 +216,6 @@
     "html/html5.svg",
     "python/python.svg",
     "sql/mysql.svg",
-    "django/django.svg",
     "SQL/teoria/diagrama-relacion-entidades.canvas"
   ]
 }
