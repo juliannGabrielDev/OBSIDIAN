@@ -1,8 +1,16 @@
 ---
+aliases:
+  - Propiedades y el Constructor Primario 💡🛠️
 tags:
   - kotlin
   - clases
+breadcrumb:
+  - "[[indice-android|ANDROID 🤖🔗]]"
+  - "[[indice-kotlin|📱 Índice Android]]"
+Fecha: 2025-07-04
 ---
+# Propiedades y el Constructor Primario 💡🛠️
+
 ## Modelar el mundo real
 
 En programación, los programadores intentan a menudo modelar el mundo real. Para ello, se utilizan clases con propiedades que expresan lo que es importante en un sistema.

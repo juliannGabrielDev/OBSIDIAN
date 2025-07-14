@@ -79,3 +79,8 @@ print("Hello, World!")
 | Nombre                                     | Palabras Clave                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[manejo-archivos\|Manejo de Archivos 📂]] | `open`, `close`, `with`, `read`, `write`, `append`, `txt`, `json`, `csv`, `json.load`, `json.dump`, `csv.reader`, `csv.writer`, `csv.DictReader`, `csv.DictWriter`. |
+## Scraping
+
+| Nombre                                 |
+| -------------------------------------- |
+| [[beautiful-soup\|Beautiful Soup 🌐✨]] |

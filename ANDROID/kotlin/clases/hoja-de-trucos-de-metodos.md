@@ -1,8 +1,16 @@
 ---
+aliases:
+  - Hoja de Trucos de Métodos 🔗🔑
 tags:
   - kotlin
   - clases
+breadcrumb:
+  - "[[indice-android|ANDROID 🤖🔗]]"
+  - "[[indice-kotlin|📱 Índice Android]]"
+Fecha: 2025-07-04
 ---
+## Hoja de Trucos de Métodos 🔗🔑
+
 En Kotlin, los métodos son funciones que están asociadas a una clase o a un objeto.
 
 ## Definiendo un método básico

@@ -5,6 +5,5 @@ tags:
 breadcrumb:
   - "[[indice-web|WEB 🔗📝]]"
   - "[[indice-python|🐍 Índice Python]]"
-Fecha:
-  "{ date }": 
+Fecha: {{date}}
 ---

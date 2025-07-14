@@ -2,9 +2,9 @@
 aliases: 
 tags:
   - kotlin
-  - clases
 breadcrumb:
   - "[[indice-android|ANDROID 🤖🔗]]"
-Fecha: {{date}} 
+  - "[[indice-kotlin|📱 Índice Android]]"
+Fecha: {{date}}
 Docs:
 ---
