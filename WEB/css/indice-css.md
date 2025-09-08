@@ -23,6 +23,7 @@ breadcrumb:
 | [[sombreado-doble\|Sombreado Doble en CSS ✨]]                       | `box-shadow`                                                                          |
 | [[textarea-altura-automatica\|Textarea con Altura Automática 📏✍️]] | `textarea`, `field-sizing`.                                                           |
 | [[formas-creativas-css\|Formas Creativas con CSS 🌊]]               | pseudo-elementos, `transform`, `skewY`, `mask`, `mask-image`, `radial-gradient`, SVG. |
+| [[lh\|Unidades lh para Mejorar Párrafos ✍️]]                        | `unidades`, `lh`, `line-height`, `margin`.                                            |
 
 ## Diseño Adaptable
 

@@ -1,12 +1,9 @@
 ---
 aliases:
   - Recursos Adicionales
-tags:
-  - kotlin
-  - clases
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 ---
 # Recursos Adicionales

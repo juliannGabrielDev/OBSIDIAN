@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Propiedades y el Constructor Primario 💡🛠️
-tags:
-  - kotlin
-  - clases
+  - Propiedades y el Constructor Primario
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 ---
 # Propiedades y el Constructor Primario 💡🛠️

@@ -1,19 +1,16 @@
 ---
 aliases:
-  - Clases data 📝✨
-tags:
-  - kotlin
-  - clases
+  - Clases Data
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/docs/data-classes.html
 ---
-# Clases `data` en Kotlin 📝✨
+# Clases `data` en Kotlin 📝
 
-Las **clases `data`** en Kotlin son una herramienta poderosa y concisa diseñada para simplificar la creación de clases cuyo propósito principal es **contener datos**. 📦 Su característica más destacada es que el compilador de Kotlin genera automáticamente una serie de métodos útiles, lo que reduce drásticamente el código repetitivo que tendrías que escribir manualmente en Java. 🚀
+Las **clases `data`** en Kotlin son una herramienta poderosa y concisa diseñada para simplificar la creación de clases cuyo propósito principal es **contener datos**. Su característica más destacada es que el compilador de Kotlin genera automáticamente una serie de métodos útiles, lo que reduce drásticamente el código repetitivo que tendrías que escribir manualmente en Java.
 
 ---
 
@@ -38,7 +35,7 @@ El principal beneficio de las `data class` es la **generación automática de m�
 
 ---
 
-## Declaración Básica de una `data class` 📜✨
+## Declaración Básica de una `data class`
 
 Para declarar una `data class`, simplemente añades la palabra clave `data` antes de `class`. Todas las propiedades declaradas en el constructor primario se usan para la generación de los métodos automáticos.
 
@@ -48,7 +45,7 @@ data class Usuario(val id: Int, var nombre: String, val email: String?)
 
 **Puntos clave:**
 
-- Todas las propiedades en el constructor primario de una `data class` deben ser `val` (inmutable) o `var` (mutable). Es una buena práctica preferir `val` para promover la inmutabilidad. 🔒
+- Todas las propiedades en el constructor primario de una `data class` deben ser `val` (inmutable) o `var` (mutable). Es una buena práctica preferir `val` para promover la inmutabilidad. 
     
 - Una `data class` requiere al menos una propiedad en su constructor primario.
     
@@ -99,7 +96,7 @@ fun main() {
 
 ---
 
-## Inmutabilidad y `data class` 🔒
+## Inmutabilidad y `data class`
 
 Es una práctica muy recomendada usar `val` para todas las propiedades en una `data class` para hacerla inmutable. Esto tiene beneficios significativos:
 
@@ -114,7 +111,7 @@ Cuando necesitas un objeto con propiedades modificadas, usas el método `copy()`
 
 ---
 
-## Propiedades Declaradas Fuera del Constructor Primario ⚠️
+## Propiedades Declaradas Fuera del Constructor Primario 
 
 Las propiedades declaradas fuera del constructor primario de una `data class` **no** son incluidas en la generación automática de `equals()`, `hashCode()`, `toString()`, etc.
 
@@ -138,7 +135,7 @@ fun main() {
 
 ---
 
-## Herencia con `data class` 🌳
+## Herencia con `data class`
 
 Las `data class` pueden extender otras clases o implementar interfaces, pero con algunas consideraciones:
 

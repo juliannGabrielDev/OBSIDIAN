@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Clases Pair y Triple ✌️🤟
-tags:
-  - kotlin
-  - clases
+  - Clases Pair y Triple
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-triple/

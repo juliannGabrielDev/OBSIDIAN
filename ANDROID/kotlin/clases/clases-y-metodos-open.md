@@ -1,23 +1,20 @@
 ---
 aliases:
-  - Clases y Métodos "Abiertos" (open) en Kotlin 🔓
-tags:
-  - kotlin
-  - clases
+  - Clases y Métodos "Abiertos" (open)
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 ---
-# Clases y Métodos "Abiertos" (`open`) en Kotlin 🔓✨
+# Clases y Métodos "Abiertos" (`open`) en Kotlin 🔓
 
-En Kotlin, por defecto, todas las clases y métodos son **`final`**. Esto significa que no pueden ser extendidos (en el caso de clases) ni sobrescritos (en el caso de métodos) por otras clases o subclases. Esta es una decisión de diseño de Kotlin para promover la **composición sobre la herencia** y fomentar la creación de código más robusto y menos propenso a errores (el "problema del diamante" o el problema de la "clase base frágil"). 🚫 inherited
+En Kotlin, por defecto, todas las clases y métodos son **`final`**. Esto significa que no pueden ser extendidos (en el caso de clases) ni sobrescritos (en el caso de métodos) por otras clases o subclases. Esta es una decisión de diseño de Kotlin para promover la **composición sobre la herencia** y fomentar la creación de código más robusto y menos propenso a errores (el "problema del diamante" o el problema de la "clase base frágil"). inherited
 
-Para permitir que una clase sea extendida o un método sea sobrescrito, debes marcarlos explícitamente con la palabra clave **`open`**. 🚀
+Para permitir que una clase sea extendida o un método sea sobrescrito, debes marcarlos explícitamente con la palabra clave **`open`**.
 
 ---
 
-## Clases `open` 🧱➡️🏗️
+## Clases `open`
 
 Cuando declaras una clase con `open`, estás permitiendo que otras clases hereden de ella.
 
@@ -55,7 +52,7 @@ fun main() {
 
 ---
 
-## Métodos `open` 🛠️➡️🔄
+## Métodos `open`
 
 Para que un método pueda ser sobrescrito por una subclase, no solo su clase debe ser `open`, sino que el método en sí también debe serlo.
 
@@ -90,7 +87,7 @@ fun main() {
 
 ---
 
-## ¿Por qué Kotlin fuerza el `final` por defecto? 🤔🔒
+## ¿Por qué Kotlin fuerza el `final` por defecto?
 
 Esta es una de las diferencias más significativas entre Kotlin y lenguajes como Java (donde las clases y métodos son `open` por defecto). La razón principal es promover un diseño de software más robusto:
 
@@ -107,7 +104,7 @@ Esta es una de las diferencias más significativas entre Kotlin y lenguajes como
 
 ---
 
-## Alternativas a la Herencia Tradicional 🔄✨
+## Alternativas a la Herencia Tradicional
 
 Si bien `open` es útil, en Kotlin a menudo se prefieren otras formas de reutilización de código:
 

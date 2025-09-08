@@ -1,19 +1,16 @@
 ---
 aliases:
-  - Clases Abstractas 🚀✨
-tags:
-  - kotlin
-  - clases
+  - Clases Abstractas
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/docs/classes.html#abstract-classes
 ---
 # Clases Abstractas en Kotlin 🚀✨
 
-Las clases abstractas en Kotlin son como planos 🗺️ que no pueden ser instanciados directamente. Su propósito principal es servir como una clase base 🏗️ para otras clases, proporcionando una estructura común y métodos que las subclases deben implementar.
+Las clases abstractas en Kotlin son como planos que no pueden ser instanciados directamente. Su propósito principal es servir como una clase base para otras clases, proporcionando una estructura común y métodos que las subclases deben implementar.
 
 > [!NOTE] ¿Por qué usar clases abstractas? 🤔
 > 
@@ -21,13 +18,13 @@ Las clases abstractas en Kotlin son como planos 🗺️ que no pueden ser instan
 
 ## Características Clave 🔑
 
-- **No se pueden instanciar:** No puedes crear objetos directamente de una clase abstracta. ¡Imagínate intentar construir una casa solo con un plano! 📏
+- **No se pueden instanciar:** No puedes crear objetos directamente de una clase abstracta. ¡Imagínate intentar construir una casa solo con un plano!
     
-- **Pueden contener propiedades y métodos abstractos:** Estos deben ser implementados por las subclases concretas. ¡Son como espacios en blanco que las subclases tienen que rellenar! ✍️
+- **Pueden contener propiedades y métodos abstractos:** Estos deben ser implementados por las subclases concretas. ¡Son como espacios en blanco que las subclases tienen que rellenar!
     
-- **Pueden contener propiedades y métodos no abstractos:** También pueden tener implementaciones predeterminadas que las subclases pueden heredar o sobrescribir. Esto es útil para compartir código. ♻️
+- **Pueden contener propiedades y métodos no abstractos:** También pueden tener implementaciones predeterminadas que las subclases pueden heredar o sobrescribir. Esto es útil para compartir código.
     
-- **Las subclases deben implementar todos los miembros abstractos:** Si una subclase no implementa todos los miembros abstractos de su clase padre abstracta, ¡también debe ser abstracta! 🤯
+- **Las subclases deben implementar todos los miembros abstractos:** Si una subclase no implementa todos los miembros abstractos de su clase padre abstracta, ¡también debe ser abstracta!
     
 
 ## Sintaxis Básica 📝
@@ -77,7 +74,7 @@ class Cuadrado(val lado: Double) : Forma() {
 
 > [!TIP] Diferencia con las interfaces 💡
 > 
-> 💡 Mientras que las interfaces solo pueden definir la firma de métodos y propiedades, las clases abstractas pueden tener propiedades y métodos con implementación, lo que permite la reutilización de código.
+> Mientras que las interfaces solo pueden definir la firma de métodos y propiedades, las clases abstractas pueden tener propiedades y métodos con implementación, lo que permite la reutilización de código.
 
 ## Ejemplo de Uso 🛠️
 

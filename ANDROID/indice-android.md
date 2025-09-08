@@ -1,7 +1,7 @@
 ---
 aliases:
-  - ANDROID 🤖🔗
+  - Android
 ---
-# ANDROID 🤖🔗
-
-- 
+![[android-icon.svg]]
+# Android
+- [[indice-kotlin|Kotlin]]

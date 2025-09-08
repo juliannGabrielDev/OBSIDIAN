@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Hoja de Trucos de Métodos 🔗🔑
-tags:
-  - kotlin
-  - clases
+  - Hoja de Trucos de Métodos
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 ---
 ## Hoja de Trucos de Métodos 🔗🔑

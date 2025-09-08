@@ -1,17 +1,14 @@
 ---
 aliases:
-  - Interfaces en Kotlin 🔌
-tags:
-  - kotlin
-  - clases
+  - Interfaces en Kotlin
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/docs/interfaces.html
 ---
-# Interfaces en Kotlin ✨🔌
+# Interfaces en Kotlin🔌
 
 Las **interfaces** en Kotlin son contratos que definen un conjunto de propiedades y métodos abstractos (sin implementación) o con implementaciones por defecto. 🤝 No pueden ser instanciadas directamente, pero las clases pueden **implementarlas** para comprometerse a proporcionar una implementación para esos miembros.
 

@@ -1,23 +1,20 @@
 ---
 aliases:
-  - Clases Enum 🏷️✨
-tags:
-  - kotlin
-  - clases
+  - Clases Enum
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/docs/enum-classes.html
 ---
-# Clases Enum en Kotlin 🏷️✨
+# Clases Enum en Kotlin 🏷️
 
-Las **clases `enum`** en Kotlin son una forma especial de definir un conjunto fijo de constantes. 🚀 Son muy útiles cuando sabes de antemano todos los valores posibles de una variable, como los días de la semana, los colores o los estados de un proceso. 🎨🗓️
+Las **clases `enum`** en Kotlin son una forma especial de definir un conjunto fijo de constantes. Son muy útiles cuando sabes de antemano todos los valores posibles de una variable, como los días de la semana, los colores o los estados de un proceso. 
 
 ---
 
-## ¿Por qué usar Enums? 🤔💡
+## ¿Por qué usar Enums?
 
 - **Seguridad de Tipo:** 🔒 Evitan errores al restringir los valores posibles.
     
@@ -32,7 +29,7 @@ Las **clases `enum`** en Kotlin son una forma especial de definir un conjunto fi
 
 ---
 
-## Declaración Básica de una Enum 📜✨
+## Declaración Básica de una Enum
 
 Para declarar una `enum` en Kotlin, usas la palabra clave `enum class` seguida del nombre de la enum y sus constantes separadas por comas.
 
@@ -47,7 +44,7 @@ enum class Direccion {
 
 ---
 
-## Propiedades y Comportamiento Adicional 🌟🛠️
+## Propiedades y Comportamiento Adicional
 
 Las enums en Kotlin son mucho más que simples listas de nombres. Puedes:
 
@@ -105,7 +102,7 @@ fun main() {
 
 ---
 
-## Cuándo usar Enums vs. Sealed Classes 🆚🧐
+## Cuándo usar Enums vs. Sealed Classes 
 
 A menudo, las **clases `enum`** y las **`sealed class`** (clases selladas) pueden parecer similares, ya que ambas restringen los tipos posibles. Sin embargo, tienen diferencias clave:
 

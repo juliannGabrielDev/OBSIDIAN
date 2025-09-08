@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1380e255208706e",
+            "id": "d9df107a4a2977ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANDROID/ui/jetpack-compose/recursos-adicionales.md",
+                "file": "ANDROID/kotlin/estructuras/listas.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recursos-adicionales"
-            }
-          },
-          {
-            "id": "ac79d075dcba6021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/python/indice-python.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "indice-python"
+              "title": "listas"
             }
           }
         ]
@@ -175,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -182,36 +169,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1380e255208706e",
+  "active": "d9df107a4a2977ff",
   "lastOpenFiles": [
+    "ANDROID/kotlin/estructuras/Mapas.md",
+    "ANDROID/kotlin/estructuras/listas.md",
+    "ANDROID/kotlin/indice-kotlin.md",
+    "ANDROID/kotlin/clases/sealed-class.md",
+    "ANDROID/indice-android.md",
+    "ANDROID/kotlin/clases/recursos-adicionales.md",
+    "ANDROID/kotlin/clases/propiedades-y-constrcutor-primario.md",
+    "ANDROID/kotlin/clases/pair-triple-class.md",
+    "ANDROID/kotlin/clases/interfaces.md",
+    "ANDROID/kotlin/clases/hoja-de-trucos-de-metodos.md",
+    "ANDROID/kotlin/clases/data-class.md",
+    "ANDROID/kotlin/clases/clases-y-metodos-open.md",
+    "ANDROID/kotlin/clases/clases-abstractas.md",
+    "ANDROID/kotlin/clases/clases-enum.md",
+    "WEB/indice-web.md",
+    "WEB/css/indice-css.md",
+    "ANDROID/android-icon.svg",
+    "ANDROID/kotlin/kotlin.svg",
+    "WEB/css/tips/lh.md",
+    "WEB/css/animaciones/propiedades-animacion.md",
+    "WEB/css/tips/Untitled",
+    "WEB/css/glosario-propiedades-novedosas.md",
+    "WEB/css/css.svg",
+    "ANDROID/links.md",
+    "ANDROID/kotlin/jetpack-compose/recursos-adicionales.md",
     "ANDROID/kotlin/Funciones/Funciones.md",
     "ANDROID/kotlin/Funciones/Recursos Adicionales para Funciones.md",
-    "ANDROID/kotlin/clases/propiedades-y-constrcutor-primario.md",
-    "ANDROID/kotlin/clases/recursos-adicionales.md",
-    "ANDROID/kotlin/clases/sealed-class.md",
-    "ANDROID/kotlin/clases/clases-abstractas.md",
     "WEB/python/scraping/beautiful-soup.md",
     "WEB/python/indice-python.md",
     "TEMPLATES/python-template.md",
     "WEB/python/scraping",
-    "LINUX/indice-linux.md",
-    "ANDROID/kotlin/indice-kotlin.md",
-    "ANDROID/kotlin/Clases/Recursos Adicionales para Interfaces y herencia.md",
-    "ANDROID/kotlin/Clases/Recursos Adicionales  para Clases.md",
-    "ANDROID/kotlin/clases/pair-triple-class.md",
-    "ANDROID/ui/jetpack-compose/recursos-adicionales.md",
-    "ANDROID/kotlin/Clases/Clases Pair y Triple.md",
-    "ANDROID/kotlin/clases/clases-y-metodos-open.md",
-    "ANDROID/kotlin/clases/data-class.md",
-    "ANDROID/kotlin/clases/hoja-de-trucos-de-metodos.md",
-    "ANDROID/kotlin/clases/interfaces.md",
-    "ANDROID/kotlin/Clases/Clases selladas.md",
     "ANDROID/kotlin/clases/Untitled",
-    "ANDROID/kotlin/Clases/Clases y métodos abiertos.md",
-    "ANDROID/kotlin/clases/clases-enum.md",
-    "ANDROID/kotlin/Clases/Interfaces.md",
-    "TEMPLATES/kotlin-template.md",
-    "ANDROID/kotlin/Clases/Data Clases.md",
     "ANDROID/kotlin/clases",
     "WEB/svelte",
     "WEB/django/django.svg",
@@ -220,16 +211,12 @@
     "ANDROID/kotlin/Otros",
     "ANDROID/kotlin/Funciones",
     "ANDROID/kotlin/Flujo de control",
-    "ANDROID/kotlin/Estruecturas de datos",
-    "ANDROID/kotlin/kotlin.svg",
     "WEB/git/git.svg",
     "javascript/javascript.svg",
     "css/grid-flexbox/css-flexbox-poster.webp",
     "css/grid-flexbox/css-flexbox-poster.png",
     "css/css.svg",
     "html/html5.svg",
-    "python/python.svg",
-    "sql/mysql.svg",
     "SQL/teoria/diagrama-relacion-entidades.canvas"
   ]
 }

@@ -1,19 +1,16 @@
 ---
 aliases:
-  - Clases Selladas (sealed class) 🔒🎨
-tags:
-  - kotlin
-  - clases
+  - Clases Selladas (sealed class)
 breadcrumb:
-  - "[[indice-android|ANDROID 🤖🔗]]"
-  - "[[indice-kotlin|📱 Índice Android]]"
+  - "[[indice-android|Android]]"
+  - "[[indice-kotlin|Kotlin]]"
 Fecha: 2025-07-04
 Docs:
   - https://kotlinlang.org/docs/sealed-classes.html
 ---
 # Clases Selladas (`sealed class`) en Kotlin 🔒🎨
 
-Las **clases selladas (`sealed class`)** en Kotlin son una forma restringida de jerarquía de clases que te permite definir un conjunto finito y predefinido de subclases directas. 🏗️ Esto es especialmente útil para modelar estados, eventos o valores que pueden ser de un número limitado de tipos, conocidos en tiempo de compilación. 🚀
+Las **clases selladas (`sealed class`)** en Kotlin son una forma restringida de jerarquía de clases que te permite definir un conjunto finito y predefinido de subclases directas. Esto es especialmente útil para modelar estados, eventos o valores que pueden ser de un número limitado de tipos, conocidos en tiempo de compilación.
 
 ---
 
@@ -21,9 +18,9 @@ Las **clases selladas (`sealed class`)** en Kotlin son una forma restringida de 
 
 El principal beneficio de las `sealed class` radica en el **control exhaustivo y la seguridad de tipo** que ofrecen:
 
-- **Enumeración Limitada de Tipos:** Garantizan que todas las subclases directas de una clase sellada se declaren dentro del mismo archivo (o del mismo módulo si usas Kotlin 1.5+ y las `sealed interface`). Esto significa que el compilador "conoce" todas las subclases posibles. 🧠
+- **Enumeración Limitada de Tipos:** Garantizan que todas las subclases directas de una clase sellada se declaren dentro del mismo archivo (o del mismo módulo si usas Kotlin 1.5+ y las `sealed interface`). Esto significa que el compilador "conoce" todas las subclases posibles.
     
-- **Expresiones `when` Exhaustivas:** ✨ Gracias a este conocimiento, el compilador puede verificar que has manejado _todos_ los casos posibles en una expresión `when` sin necesidad de una cláusula `else`. Esto elimina la posibilidad de errores en tiempo de ejecución debido a casos no manejados.
+- **Expresiones `when` Exhaustivas:** Gracias a este conocimiento, el compilador puede verificar que has manejado _todos_ los casos posibles en una expresión `when` sin necesidad de una cláusula `else`. Esto elimina la posibilidad de errores en tiempo de ejecución debido a casos no manejados.
     
 - **Modelado de Estados:** Son ideales para representar estados en sistemas (por ejemplo, `Loading`, `Success`, `Error`) o eventos en arquitecturas como MVI (Model-View-Intent).
     
@@ -36,7 +33,7 @@ El principal beneficio de las `sealed class` radica en el **control exhaustivo y
 
 ---
 
-## Declaración Básica de una `sealed class` 📜✍️
+## Declaración Básica de una `sealed class`
 
 Para declarar una clase sellada, usas la palabra clave `sealed class` antes de `class`. Sus subclases pueden ser **`data class`**, **`object`** (si no tienen estado y son singulares) o **clases normales**.
 
@@ -61,7 +58,7 @@ sealed class ResultadoCarga {
 
 ---
 
-## `when` Exhaustivo con `sealed class` 🚦✨
+## `when` Exhaustivo con `sealed class`
 
 Aquí es donde las `sealed class` realmente brillan. Observa cómo el compilador no requiere una cláusula `else` si cubres todas las subclases:
 
@@ -92,7 +89,7 @@ fun main() {
 }
 ```
 
-Si intentaras añadir una nueva subclase a `ResultadoCarga` y olvidaras añadir un `when` para ella, el compilador te avisaría. Esto es increíblemente valioso para refactorizaciones y para mantener la robustez del código. 🛡️
+Si intentaras añadir una nueva subclase a `ResultadoCarga` y olvidaras añadir un `when` para ella, el compilador te avisaría. Esto es increíblemente valioso para refactorizaciones y para mantener la robustez del código.
 
 ---
 
