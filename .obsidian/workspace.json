@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6c2c277827a6bc",
+        "id": "6fa97713181feeb9",
         "type": "tabs",
         "children": [
           {
-            "id": "9b514bccdfae045e",
+            "id": "408a7aa59abcb5e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTEL/electronica/arquitectura-computadoras/practicas/practica-4.md",
+                "file": "ANDROID/indice-android.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "practica-4"
-            }
-          }
-        ]
-      },
-      {
-        "id": "141962c8ed221699",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4d96560dab6333f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTEL/electronica/arquitectura-computadoras/atmega328p.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "atmega328p"
+              "title": "indice-android"
             }
           }
         ]
@@ -189,54 +169,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f4d96560dab6333f",
+  "active": "408a7aa59abcb5e1",
   "lastOpenFiles": [
-    "INTEL/electronica/arquitectura-computadoras/practicas/practica-3.md",
-    "INTEL/electronica/arquitectura-computadoras/practicas/practica-4.md",
     "INTEL/electronica/arquitectura-computadoras/atmega328p.md",
-    "INTEL/electronica/arquitectura-computadoras/practicas/practica-1.md",
-    "INTEL/electronica/arquitectura-computadoras/practicas/practica-2.md",
-    "INTEL/electronica/arquitectura-computadoras/mnemonicos.md",
-    "INTEL/electronica/arquitectura-computadoras/practicas",
-    "INTEL/electronica/arquitectura-computadoras/fragmentos",
-    "INTEL/electronica/arquitectura-computadoras/atmega328p.webp",
-    "INTEL/electronica/arquitectura-computadoras/atmega328p.jpg",
-    "INTEL/electronica/arquitectura-computadoras",
-    "INTEL/electronica",
-    "ANDROID/kotlin/clases/property-delegates.md",
-    "ANDROID/kotlin/Flujo de control/if-when-expresion.md",
-    "ANDROID/kotlin/clases/modificadores-visibilidad.md",
-    "ANDROID/kotlin/indice-kotlin.md",
-    "ANDROID/kotlin/clases/herencia/herencia.md",
-    "ANDROID/kotlin/clases/herencia/relaciones-entre-clases.md",
-    "ANDROID/kotlin/clases/herencia",
-    "ANDROID/kotlin/Otros/nulabilidad.md",
-    "ANDROID/kotlin/clases/propiedades-y-constrcutor-primario.md",
-    "ANDROID/kotlin/clases/get-set.md",
-    "ANDROID/kotlin/estructuras/sets.md",
-    "ANDROID/kotlin/jetpack-compose/recursos-adicionales.md",
-    "ANDROID/kotlin/Flujo de control/when.md",
-    "ANDROID/kotlin/Flujo de control/if-else como expresiones.md",
-    "ANDROID/kotlin/estructuras/mapas.md",
-    "ANDROID/kotlin/estructuras/listas.md",
-    "ANDROID/kotlin/clases/sealed-class.md",
-    "ANDROID/indice-android.md",
-    "ANDROID/kotlin/clases/recursos-adicionales.md",
-    "ANDROID/kotlin/clases/pair-triple-class.md",
-    "ANDROID/kotlin/clases/interfaces.md",
-    "ANDROID/android-icon.svg",
-    "ANDROID/kotlin/kotlin.svg",
-    "WEB/css/tips/Untitled",
-    "WEB/css/css.svg",
-    "WEB/python/scraping",
-    "ANDROID/kotlin/clases",
-    "WEB/svelte",
-    "WEB/django/django.svg",
-    "WEB/Svelte",
-    "WEB/git/git.svg",
-    "javascript/javascript.svg",
-    "css/grid-flexbox/css-flexbox-poster.webp",
-    "css/grid-flexbox/css-flexbox-poster.png",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img/metodo-star.webp",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img/interview-warmup.webp",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/85 Términos del glosario del Módulo 5.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/83 Términos del glosario del Módulo 3.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/82 Términos del glosario del Módulo 2.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/81 Términos del glosario del Módulo 1.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/855 Consejos para una entrevista a distancia.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/854 Más información sobre como desarrollar una presentación concisa.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/853 Prepárese para las entrevistas en Interview Warmup.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/851 Aplicar el método STAR durante las entrevistas.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/852 Preparese para las entrevistas.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/833 Historia de Juliana - Comunicación efectiva.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/832 Comunicarse eficazmente con las partes interesadas.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/831 El propósito y el impacto de las partes interesadas.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/824 Historia de Juliana - Atención al detalle.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/823 Momento de la Elevación.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/822 Reconocer las funciones y responsabilidades durante la Elevación.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/821 Elevación con un propósito.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/813 Historia de Juliana - Protección de los recursos.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/812 Recuperación en caso de catástrofe y continuidad del negocio b2b.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/811 Datos y Clasificación de activos.md",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes",
+    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/74 Términos del glosario del Módulo 4.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/73 Términos del glosario del Módulo 3.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/72 Términos del glosario del Módulo 2.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/71 Términos del glosario del Módulo 1.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades/742 Actividad - Crea otro algoritmo.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades/741 Actividad - Importar y analizar un archivo de texto.md",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/742-1 Función open.canvas",
+    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/wireshark.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/siem.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/tcpdump.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/seguimiento-flujo.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/piramide-dolor.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/operador-contencion.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/normalizacion.webp",
+    "CIBERSEGURIDAD/6-deteccion-respuesta/img/nids.webp",
     "SQL/teoria/diagrama-relacion-entidades.canvas"
   ]
 }

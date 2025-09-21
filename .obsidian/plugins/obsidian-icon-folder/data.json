@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔐",
       "🖐",
       "🧩",
       "💡",
-      "🏎",
-      "📱"
+      "🏎"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,6 @@
   "WEB/svelte": "🏎",
   "INTEL/electronica": "💡",
   "INTEL/electronica/arquitectura-computadoras/fragmentos": "🧩",
-  "INTEL/electronica/arquitectura-computadoras/practicas": "🖐"
+  "INTEL/electronica/arquitectura-computadoras/practicas": "🖐",
+  "CIBERSEGURIDAD": "🔐"
 }
