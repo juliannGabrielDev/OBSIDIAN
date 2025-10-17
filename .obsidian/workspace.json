@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa97713181feeb9",
+        "id": "c93f646ac6745b40",
         "type": "tabs",
         "children": [
           {
-            "id": "408a7aa59abcb5e1",
+            "id": "083b1d0a8d1fe601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANDROID/indice-android.md",
+                "file": "UI & UX/indice-figma.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indice-android"
+              "title": "indice-figma"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "box-sha",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 353.5
   },
   "right": {
     "id": "b45c2959d5b640b0",
@@ -169,55 +169,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "408a7aa59abcb5e1",
+  "active": "083b1d0a8d1fe601",
   "lastOpenFiles": [
-    "INTEL/electronica/arquitectura-computadoras/atmega328p.md",
+    "UI & UX/conceptos-basicos/disenio-centrado-en-el-usuario.md",
+    "UI & UX/conceptos-basicos/conceptos.md",
+    "WEB/sql/recursos/sql-basics-cheat-sheet-a3.pdf",
+    "WEB/sql/recursos/join-sql.jpg",
+    "WEB/sql/indice-sql.md",
+    "UI & UX/indice-figma.md",
+    "UI & UX/investigacion-ux.md",
+    "UI & UX/Untitled",
+    "UI & UX/recursos/Video transcript_Responsive and adaptive UX design - Spanish.pdf",
+    "UI & UX/recursos/Introduction_to_UX_Design_Common_UI_Design_Elements - Spanish-1.pdf",
+    "UI & UX/recursos/UX_Design_Fundamentals_Example_Case_Study_course-1 - Spanish-1.pdf",
+    "UI & UX/recursos/Video_transcript_UX_research_methods - Spanish.pdf",
+    "UI & UX/recursos/Video_transcript_User_personas - Spanish.pdf",
+    "UI & UX/recursos",
+    "UI & UX/figma.svg",
+    "WEB/sql/recursos/diagrama-consulta-sql.jpg",
+    "WEB/sql/recursos/tutorial-de-sql.pdf",
+    "WEB/css/indice-css.md",
+    "WEB/css/glosario-propiedades-novedosas.md",
+    "WEB/css/tips/formas-creativas-css.md",
+    "TEMPLATES/js-template.md",
+    "UI & UX/investigacion-ux",
+    "WEB/sql/uniones/inner-join.md",
+    "WEB/sql/uniones/full-outer-join.md",
+    "UI & UX/indice.md.md",
+    "UI & UX/regla-de-oro-heading.md",
+    "WEB/sql/uniones/left-right-join.md",
+    "WEB/sql/tablas/como-se-relacionan-los-datos.md",
+    "WEB/sql/teoria/normalizacion.md",
+    "WEB/sql/conjuntos-comandos/dcl.md",
+    "WEB/sql/operadores/funciones-agregacion.md",
+    "WEB/sql/tablas/tipos-datos.md",
+    "LINUX/indice-linux.md",
+    "WEB/git/indice-git.md",
+    "WEB/django/django-rest-framework/vistas-genericas-y-viewsets-drf.md",
+    "WEB/django/indice-django.md",
+    "WEB/django/hoja-trucos-comandos.md",
+    "WEB/django/primeros-pasos/app.md",
     "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img/metodo-star.webp",
     "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img/interview-warmup.webp",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/85 Términos del glosario del Módulo 5.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/83 Términos del glosario del Módulo 3.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/82 Términos del glosario del Módulo 2.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/81 Términos del glosario del Módulo 1.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/img",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/855 Consejos para una entrevista a distancia.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/854 Más información sobre como desarrollar una presentación concisa.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/853 Prepárese para las entrevistas en Interview Warmup.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/851 Aplicar el método STAR durante las entrevistas.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad/852 Preparese para las entrevistas.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/833 Historia de Juliana - Comunicación efectiva.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/832 Comunicarse eficazmente con las partes interesadas.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas/831 El propósito y el impacto de las partes interesadas.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/824 Historia de Juliana - Atención al detalle.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/823 Momento de la Elevación.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/822 Reconocer las funciones y responsabilidades durante la Elevación.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes/821 Elevación con un propósito.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/813 Historia de Juliana - Protección de los recursos.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/812 Recuperación en caso de catástrofe y continuidad del negocio b2b.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes/811 Datos y Clasificación de activos.md",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/81 Proteger los Datos y Comunicar los Incidentes",
-    "CIBERSEGURIDAD/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/74 Términos del glosario del Módulo 4.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/73 Términos del glosario del Módulo 3.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/72 Términos del glosario del Módulo 2.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios/71 Términos del glosario del Módulo 1.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades/742 Actividad - Crea otro algoritmo.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades/741 Actividad - Importar y analizar un archivo de texto.md",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Glosarios",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/Actividades",
     "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python/742-1 Función open.canvas",
-    "CIBERSEGURIDAD/7 Automatizar tareas de ciberseguridad con Python",
     "CIBERSEGURIDAD/6-deteccion-respuesta/img/wireshark.webp",
     "CIBERSEGURIDAD/6-deteccion-respuesta/img/siem.webp",
     "CIBERSEGURIDAD/6-deteccion-respuesta/img/tcpdump.webp",
     "CIBERSEGURIDAD/6-deteccion-respuesta/img/seguimiento-flujo.webp",
     "CIBERSEGURIDAD/6-deteccion-respuesta/img/piramide-dolor.webp",
-    "CIBERSEGURIDAD/6-deteccion-respuesta/img/operador-contencion.webp",
-    "CIBERSEGURIDAD/6-deteccion-respuesta/img/normalizacion.webp",
-    "CIBERSEGURIDAD/6-deteccion-respuesta/img/nids.webp",
     "SQL/teoria/diagrama-relacion-entidades.canvas"
   ]
 }
